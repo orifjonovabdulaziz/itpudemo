@@ -3,3 +3,8 @@ def self_presentation(*args) -> str:
 
 
 print(self_presentation('Abdulaziz',15))
+
+
+
+def new_function():
+    print("Hello World")
